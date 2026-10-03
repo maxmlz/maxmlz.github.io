@@ -6,6 +6,7 @@ date: 2025-06-18
 
 # 0days
 
+- [warmcat/libwebsockets - h2: hpack: never store a literal-name value against a failed lws_parse()](https://libwebsockets.org/git/libwebsockets/commit?id=bdd136aa7591edbc125528735710511288015453)
 - [warmcat/libwebsockets - http: don't subscript frag_index[] with an unchecked parser_state](https://libwebsockets.org/git/libwebsockets/commit?id=209fdc2a787ba804975c6ceade6b52e980996237)
 - [vurtun/lib - Signed Integer Overflow in json_ipow](https://github.com/vurtun/lib/issues/67)
 - [mackron/dr_libs - Heap-buffer-overflow in ID3v2 meta read when APE tag seek fails](https://github.com/mackron/dr_libs/issues/291)
